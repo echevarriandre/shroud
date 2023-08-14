@@ -1,8 +1,8 @@
 {
-  "name": "batsignal",
-  "displayName": "Batsignal",
-  "description": "A color theme for bats",
-  "publisher": "tamagui",
+  "name": "batsignal-2.0",
+  "displayName": "Batsignal 2.0",
+  "description": "A color theme for bats but fixed",
+  "publisher": "echevarriandre",
   "version": "0.0.3",
   "author": {
     "name": "Nate Wienert"
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/natew/batsignal.git"
+    "url": "https://github.com/echevarriandre/batsignal.git"
   },
   "engines": {
     "vscode": "^1.75.0"
@@ -21,7 +21,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "batsignal",
+        "label": "batsignal-2.0",
         "uiTheme": "vs-dark",
         "path": "./themes/Batsignal-color-theme.json"
       }
