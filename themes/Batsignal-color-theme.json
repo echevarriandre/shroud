@@ -214,6 +214,9 @@
 		"titleBar.inactiveBackground": "#000000",
 		"tree.indentGuidesStroke": "#141414",
 		"window.activeBorder": "#0a0a0a",
+		"diffEditor.insertedTextBackground": "#30372133",
+		"diffEditor.removedTextBackground": "#ff000019",
+		"diffEditor.insertedLineBackground": "#3037215d"
 	},
 	"tokenColors": [
 		{
