@@ -82,7 +82,7 @@
 		"input.background": "#000000",
 		"input.border": "#181818",
 		"input.foreground": "#919191",
-		"list.activeSelectionBackground": "#333",
+		"list.activeSelectionBackground": "#2d2d2d",
 		"list.activeSelectionForeground": "#bfbfbf",
 		"list.errorForeground": "#ff6846",
 		"list.filterMatchBackground": "#1a1a1a",
