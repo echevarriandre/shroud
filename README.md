@@ -1,7 +1,7 @@
-# Batsignal
+# Dusklight
 
-A lifesaving dark theme.
+Batsignal theme but with my own spin on it
 
 ![Batsignal screenshot](screenshot2.png)
 
-[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=tamagui.batsignal)
+Original theme: [Batsignal](https://marketplace.visualstudio.com/items?itemName=tamagui.batsignal)

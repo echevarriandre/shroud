@@ -1,11 +1,14 @@
 {
-  "name": "batsignal-two",
-  "displayName": "Batsignal 2.0",
-  "description": "A color theme for bats but fixed",
+  "name": "dusklight",
+  "displayName": "Dusklight",
+  "description": "Fork of Nate's Batsignal Theme",
   "publisher": "echevarriandre",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "author": {
     "name": "Nate Wienert"
+  },
+  "scripts": {
+    "release": "vsce package && vsce publish"
   },
   "license": "MIT",
   "repository": {
@@ -15,15 +18,18 @@
   "engines": {
     "vscode": "^1.75.0"
   },
+  "devDependencies": {
+    "@vscode/vsce": "^2.29.0"
+  },
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "batsignal-2.0",
+        "label": "dusklight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Batsignal-color-theme.json"
+        "path": "./themes/dusklight-color-theme.json"
       }
     ]
   }
