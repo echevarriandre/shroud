@@ -1,6 +1,6 @@
 {
-  "name": "dusklight",
-  "displayName": "Dusklight",
+  "name": "shroud",
+  "displayName": "Shroud",
   "description": "Fork of Nate's Batsignal Theme",
   "publisher": "echevarriandre",
   "version": "0.0.9",
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "dusklight",
+        "label": "Shroud",
         "uiTheme": "vs-dark",
-        "path": "./themes/dusklight-color-theme.json"
+        "path": "./themes/shroud-color-theme.json"
       }
     ]
   }
