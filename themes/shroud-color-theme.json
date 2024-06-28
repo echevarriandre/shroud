@@ -3,6 +3,8 @@
   "type": "dark",
   "name": "Shroud",
   "colors": {
+    "extensionButton.separator": "#00000000",
+    "button.background": "#3d3d3d",
     "progressBar.background": "#ffffff",
     "selection.background": "#222",
     "activityBar.foreground": "#c2c2c2",
