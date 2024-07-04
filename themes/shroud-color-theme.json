@@ -218,6 +218,7 @@
     "terminal.foreground": "#999999",
     "terminalCursor.background": "#000000",
     "terminalCursor.foreground": "#b3b3b3",
+    "terminal.selectionBackground": "#3f3f3f",
     "textLink.activeForeground": "#ffffff",
     "textLink.foreground": "#ffffff",
     "textPreformat.foreground": "#aaaaaa",
