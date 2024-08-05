@@ -80,7 +80,7 @@
     "gitDecoration.addedResourceForeground": "#c0c0c0",
     "gitDecoration.conflictingResourceForeground": "#c0c0c0",
     "gitDecoration.deletedResourceForeground": "#777777",
-    "gitDecoration.ignoredResourceForeground": "#272727",
+    "gitDecoration.ignoredResourceForeground": "#444444",
     "gitDecoration.modifiedResourceForeground": "#c0c0c0",
     "gitDecoration.submoduleResourceForeground": "#777777",
     "gitDecoration.untrackedResourceForeground": "#c0c0c0",
@@ -93,8 +93,11 @@
     "input.foreground": "#aaaaaa",
     "inputOption.activeBorder": "#aaaaaa",
     "inputOption.activeForeground": "#aaaaaa",
+    "breadcrumb.foreground": "#515151",
+    "list.dropBackground": "#222",
     "list.activeSelectionBackground": "#222",
     "list.activeSelectionForeground": "#fff",
+    "list.focusAndSelectionOutline": "#303030",
     "list.errorForeground": "#ff6846",
     "list.filterMatchBackground": "#1a1a1a",
     "list.filterMatchBorder": "#000000",
@@ -134,9 +137,9 @@
     "quickInputList.focusForeground": "#fff",
     "sash.hoverBorder": "#0f0f0f",
     "scrollbar.shadow": "#000000",
-    "scrollbarSlider.activeBackground": "#303030",
-    "scrollbarSlider.background": "#222",
-    "scrollbarSlider.hoverBackground": "#222",
+    "scrollbarSlider.activeBackground": "#303030a4",
+    "scrollbarSlider.background": "#22222274",
+    "scrollbarSlider.hoverBackground": "#2222229f",
     "settings.checkboxBorder": "#0a0a0a",
     "settings.dropdownBorder": "#0a0a0a",
     "settings.modifiedItemIndicator": "#383838",
@@ -227,7 +230,8 @@
     "titleBar.border": "#151515",
     "titleBar.inactiveBackground": "#000000",
     "tree.indentGuidesStroke": "#141414",
-    "window.activeBorder": "#0a0a0a"
+    "window.activeBorder": "#0a0a0a",
+    "widget.border": "#222222"
   },
   "tokenColors": [
     {
